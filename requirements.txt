@@ -1,0 +1,7 @@
+Pandas
+Numpy
+Matplotlib
+Shapely
+Statsmodel
+Geopandas
+Pingouin
